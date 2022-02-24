@@ -40,6 +40,10 @@
 <img align="left" alt="redis" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
 
 
+### Projects outside Github
+
+ZilloJs: https://www.npmjs.com/package/zillojs
+
 [website]: https://Mahanfr.ir
 [twitter]: https://twitter.com/mahan_farzaneh
 [youtube]: https://youtube.com/channel/UCxyTjoykWs-MJkEY-rGsPTg
