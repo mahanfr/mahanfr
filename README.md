@@ -44,7 +44,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   
 ### Projects outside Github
 
-<img src="https://raw.githubusercontent.com/mahanfarzaneh2000/ZilloJs/master/documentation/Logo.svg" />
+<img src="https://raw.githubusercontent.com/mahanfr/ZilloJs/master/documentation/Logo.svg" />
 
 https://www.npmjs.com/package/zillojs
 
