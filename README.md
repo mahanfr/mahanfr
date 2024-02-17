@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi there, I'm Mahan
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&random=true&width=435&lines=Hi+there%2C+I'm+Mahan)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=Offline&label=Mahanfr.ir&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fmahanfr.ir)](https://Mahanfr.ir)
 [![Twitter Follow](https://img.shields.io/twitter/follow/mahan_farzaneh?color=green&logo=twitter&style=for-the-badge)](https://twitter.com/mahan_farzaneh)
@@ -11,18 +11,18 @@
 ### Connect with me:
 
 <span></span>
-[<img align="center" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="mahanfr.ir" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 <span>&nbsp;&nbsp;&nbsp; </span>
-[<img align="center" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="center" alt="mahan farzaneh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <span>&nbsp;&nbsp;&nbsp;</span>
-[<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="mahan farzaneh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <span>&nbsp;&nbsp;&nbsp;</span>
-[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="mahan farzaneh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <span></span>
 </div>
 <div align="center">
 
-### Languages and Tchnologies I Use Frequently:
+### Languages and Technologies I Use Frequently:
 
 
 <img align="center" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -41,14 +41,16 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 </div>
 
 <div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mahanfr&theme=transparent&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
   
-### Projects outside Github
+</div>
 
-<img src="https://raw.githubusercontent.com/mahanfr/ZilloJs/master/documentation/Logo.svg" />
-
-https://www.npmjs.com/package/zillojs
-
-**Simple Django Like Backend Web Framwork In JavaScript**
+<div align="center">
+  
+### Projects
+  
+  <img src="https://raw.githubusercontent.com/mahanfr/mahanfr/master/Showdown-github.png" />
 
 </div>
 
