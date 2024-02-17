@@ -48,9 +48,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <div align="center">
   
-### Projects
-  
-  <img src="https://raw.githubusercontent.com/mahanfr/mahanfr/master/Showdown-github.png" />
+  <img height="250px" src="https://raw.githubusercontent.com/mahanfr/mahanfr/master/Showdown-github.png" />
 
 </div>
 
