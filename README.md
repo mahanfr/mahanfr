@@ -46,12 +46,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
   
 </div>
 
-<div align="center">
-  
-  <img height="250px" src="https://raw.githubusercontent.com/mahanfr/mahanfr/master/Showdown-github.png" />
-
-</div>
-
 [website]: https://Mahanfr.ir
 [twitter]: https://twitter.com/mahan_farzaneh
 [youtube]: https://youtube.com/channel/UCxyTjoykWs-MJkEY-rGsPTg
